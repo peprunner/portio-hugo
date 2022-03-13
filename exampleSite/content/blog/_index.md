@@ -1,3 +1,3 @@
 ---
-title: Recents Article
+title: Post recenti
 ---
